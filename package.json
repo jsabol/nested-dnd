@@ -46,7 +46,7 @@
 		"eslint-plugin-node": "^9.1.0",
 		"ignore-styles": "^5.0.1",
 		"nodemon": "^1.19.1",
-		"sinon": "^7.4.1",
+		"sinon": "^9.2.4",
 		"supertest": "^4.0.2"
 	},
 	"browserslist": {
